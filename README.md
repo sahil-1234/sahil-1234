@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source**
 
-- 👨‍💻 All of my projects are available at [sahil-portfolio01.netlify.app](sahil-portfolio01.netlify.app)
+- 👨‍💻 All of my projects are available at [sahil-portfolio01.netlify.app](sahil-portfolio12.netlify.app)
 
 - 💬 Ask me about **Reactjs, MERN stack, FREINDS**
 
