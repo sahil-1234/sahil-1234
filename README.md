@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **sahil.srivastava0170@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QwDm-SbhLNIxHVKeMqLxcc5kKWgie01j/view?usp=sharing](https://drive.google.com/file/d/1QwDm-SbhLNIxHVKeMqLxcc5kKWgie01j/view?usp=sharing)
-
 - ⚡ Fun fact **Constant motion fuels growth; standing still risks dilution.**
 
 <h3 align="left">Connect with me:</h3>
